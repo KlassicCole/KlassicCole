@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Cole+Dorazio!;I+write+code+that+does+the+boring+stuff+for+me;Forging+code+like+steel;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Cole+Dorazio!;I+write+code+that+does+the+boring+stuff+for+me;Forging+code+like+steel;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ## 🛼 Cole Dorazio
