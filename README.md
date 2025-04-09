@@ -19,7 +19,7 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for learnin
 
 ## 🧪 Projects I’m Proud Of
 
-### 🚀 [Currency Counter](https://github.com/your-username/currency-counter)
+### 🚀 [Currency Counter](https://github.com/KlassicCole/currency-counter)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
 
 ### 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
