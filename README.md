@@ -9,7 +9,7 @@
 
 ## 🛼 Cole Dorazio
 
-Welcome to my corner of GitHub! I'm a curious builder with a passion for learning **software and hardware**, from Home Servers to Android apps, Raspberry Pi projects to MTG deck optimizers. I have a passion for being OCD about clean documentation and clear instruction.
+Welcome to my corner of GitHub! I'm a curious builder with a passion for learning **software and hardware**, from Home Servers to Android apps, Raspberry Pi projects to MTG deck optimizers. I enjoy creating solutions to everyday personal problems and have a passion for being OCD about clean documentation and clear instruction.
 
 ## 💻 What I’m About
 
