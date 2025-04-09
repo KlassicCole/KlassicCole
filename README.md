@@ -1,53 +1,50 @@
-# 👋 Hey there, I'm Cole
+<!--
+**KlassicCole/KlassicCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Welcome to my corner of GitHub! I'm a curious builder with a passion for combining **software and hardware** — from welding machines to Android apps, Raspberry Pi servers to MTG deck optimizers.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Hey+there%2C+I'm+Cole+Dorazio!;Builder+of+tools+and+tech.;CS+%2B+Welding+background.;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
+
+## 👋 Hey there, I'm Cole Dorazio
+
+Welcome to my corner of GitHub! I'm a curious builder with a passion for building **software and hardware** — from welding machines to Android apps, Raspberry Pi servers to MTG deck optimizers.
 
 ## 💻 What I’m About
-- 🎓 Background in **Computer Science** and **Welding**
+
+- 🎓 Background in **Computer Science** and **Welding Technologies**
 - ⚙️ Focused on creating useful, fun, and sometimes quirky tools
-- 🧠 Currently learning **TypeScript**, **Express.js**, and exploring **drone tech**
+- 🧠 Currently learning **TypeScript**, **Java**, and exploring different frameworks
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
-## 🔨 Projects I’m Proud Of
+## 🧪 Projects I’m Proud Of
 
 ### 🚀 [Currency Counter](https://github.com/your-username/currency-counter)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
 
-## 🛠️ Tech & Tools
+## 🌱 Currently Learning
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+## 🛠️ Tech & Tools I Have Some Experience In
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ## 🎮 Hobbies & Interests
+
 - 🧙 Magic: The Gathering & Dungeons & Dragons
-- 🏍️ Riding and modding motorcycles
+- 🏍️ Riding Motorcycles
+- 🛼 Rollerblading
 - ⚡ Tinkering with Raspberry Pi + Linux setups
-- 🛹 Rollerblading, welding, and building things IRL
 - 🤖 Dreaming up new automation ideas and tools
 
 ## 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<!--
-**KlassicCole/KlassicCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coledorazio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.dorazio@gmail.com)
