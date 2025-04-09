@@ -2,8 +2,9 @@
 **KlassicCole/KlassicCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Cole+Dorazio!;I+write+code+that+does+the+boring+stuff+for+me;Forging+code+like+steel;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel.+%E2%9A%92%EF%B8%8F;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ## 🛼 Cole Dorazio
