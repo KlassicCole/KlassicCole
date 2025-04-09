@@ -4,24 +4,26 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel+%E2%9A%92%EF%B8%8F;Let's+automate+some+things+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel+%E2%9A%92%EF%B8%8F;Let's+automate+some+things.+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ## 🛼 Cole Dorazio
 
-Welcome to my corner of GitHub! I'm a curious builder with a passion for building **software and hardware** — from welding machines to Android apps, Raspberry Pi servers to MTG deck optimizers.
+Welcome to my corner of GitHub! I'm a curious builder with a passion for learning **software and hardware** — from Home Servers to Android apps, Raspberry Pi projects to MTG deck optimizers.
 
 ## 💻 What I’m About
 
 - 🎓 Background in **Computer Science** and **Welding Technologies**
 - ⚙️ Focused on creating useful, fun, and sometimes quirky tools
-- 🧠 Currently learning **TypeScript**, **Java**, and exploring different frameworks
 - 🧩 I love automating things, building helpful side projects, and diving into new tech
 
 ## 🧪 Projects I’m Proud Of
 
 ### 🚀 [Currency Counter](https://github.com/your-username/currency-counter)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
+
+### 🎬 [Movie Data Scraper](https://github.com/KlassicCole/movie_data_scraper)
+A Python tool that filters and analyzes IMDb datasets to generate custom movie recommendations based on genres, ratings, and more.
 
 ## 🌱 Currently Learning
 
