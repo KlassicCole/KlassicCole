@@ -13,12 +13,6 @@ Welcome to my corner of GitHub! I'm a curious builder with a passion for combini
 ### 🚀 [Currency Counter](https://github.com/your-username/currency-counter)
 A sleek Android app for quickly counting cash and coins with a clean UI and offline support.
 
-### 📬 [EDH Oracle](https://github.com/your-username/edh-oracle)
-An MTG commander deck assistant that scrapes EDHREC, recommends cards, and even emails you updates. Built with modular Python and SQLite under the hood.
-
-### 💼 [Email Ejector](https://github.com/your-username/email-ejector)
-A TypeScript bot that parses trade confirmation emails (like from Charles Schwab) and posts them to Twitter.
-
 ## 🛠️ Tech & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
